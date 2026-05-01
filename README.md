@@ -23,7 +23,7 @@ I am a full-stack developer of desktop and web applications, handling everything
 
 ---
 
-### 👤 Sobre Mim
+### 👤 About me
 - 🐕‍🦺 I like animals.
 - ☕ I really like coffee.
 - ⚙ I like to learn as much as possible about a function and its purpose in the code, whether it’s a custom method or a built-in method.
