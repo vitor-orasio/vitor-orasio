@@ -14,7 +14,7 @@ I am a full-stack developer of desktop and web applications, handling everything
 - **Languages:** Java, SQL (MySQL), NoSQL(MongoDB), TypeScript/JavaScript.
 - **Frameworks Back-end:** Spring Boot.
 - **Frameworks Front-end:** Angular.
-- **Tools:** Maven, Git, GitHub, VS Code/IntelliJ/Eclipse.
+- **Tools:** Git, GitHub, VS Code/IntelliJ/Eclipse.
 - **Platforms:** Web and Desktop application development.
 
 ### How to find me
