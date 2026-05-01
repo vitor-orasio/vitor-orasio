@@ -19,7 +19,7 @@ I am a full-stack developer of desktop and web applications, handling everything
 
 ### How to find me
 - **LinkedIn:** [Vitor Eduardo](https://www.linkedin.com/in/vitor-eduardo-dev/)
-- **Email:** [vitororasio6650@hotmail.com]
+- **Email:** vitororasio6650@hotmail.com
 
 ---
 
