@@ -27,4 +27,4 @@ I am a full-stack developer of desktop and web applications, handling everything
 - 🐕‍🦺 I like animals.
 - ☕ I really like coffee.
 - ⚙ I like to learn as much as possible about a function and its purpose in the code, whether it’s a custom method or a built-in method.
-- 📺 Watching on many animes, my favorite is One Piece.
+- 📺 I watch a little animes, my favorite is One Piece.
