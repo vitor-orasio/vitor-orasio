@@ -1,16 +1,16 @@
-# Hi there, I am Orasio! 👋
+# Prazer, me chamo Orasio! 👋
 
-### Developer Full-Stack | Java & Angular
+### Desenvolvedor Full-Stack | Java & Angular
 
-I am a full-stack developer of desktop and web applications, handling everything from system logic (back-end) to user interfaces (front-end). Currently, I focus on studying system architecture and turning ideas—mostly related to anime or superheroes—into working code.
+Sou um desenvolvedor full-stack de aplicativos para desktop e web, lidando com tudo, desde a lógica do sistema (back-end) até as interfaces de usuário (front-end). Atualmente, me dedico a estudar arquitetura de sistemas e transformar ideias em código funcional.
 
 ---
 
-### What am I doing right now?
-- ⚒ I am currently working on creative projects using Java and Angular.
-- 🌍 English level A2; I’m studying and improving to expand my communication skills.
+### O que estou fazendo agora?
+- ⚒ Atualmente, estou trabalhando em projetos criativos usando Java e Angular.
+- 🌍 Nível de inglês A2; estou estudando e me aperfeiçoando para ampliar minhas habilidades de comunicação.
 
-### Tools and Technologies
+### Ferramentas e tecnologias
 - **Back-end applications:** ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 - **CI/CD:** ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 - **Front-end applications:** ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -19,14 +19,14 @@ I am a full-stack developer of desktop and web applications, handling everything
 - **Databases:** ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 - **Designs tools:** ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-### How to find me
+### Como me encontrar
 - **LinkedIn:** [Vitor Eduardo](https://www.linkedin.com/in/vitor-eduardo-dev/)
 - **Email:** vitororasio6650@hotmail.com
 
 ---
 
-### 👤 About me
-- 🐕‍🦺 I like animals.
-- ☕ I really like coffee.
-- ⚙ I like to learn as much as possible about a function and its purpose in the code, whether it’s a custom method or a built-in method.
-- 📺 I watch a little animes, my favorite is One Piece.
+### 👤 Sobre mim
+- 🐕‍🦺 Gosto de animais.
+- ☕ Gosto muito de café.
+- ⚙ Gosto de aprender o máximo possível sobre uma função e sua finalidade no código, seja ela um método personalizado ou um método embutido.
+- 📺 Eu assisto alguns animes, meu favorito é One Piece.
