@@ -2,7 +2,7 @@
 
 ### Desenvolvedor Full-Stack | Java & Angular
 
-Desenvolvedor full-stack de aplicativos para desktop e web, lidando com tudo, desde a lógica do sistema (back-end) até as interfaces de usuário (front-end). Atualmente, me dedico a estudar arquitetura de sistemas e transformar ideias em código funcional.
+Desenvolvedor Full Stack de aplicativos para desktop e web, criando desde a lógica do sistema (back-end) até as interfaces de usuário (front-end). Atualmente, me dedico a estudar arquitetura de sistemas e transformar ideias em código funcional.
 
 ---
 
@@ -18,11 +18,3 @@ Desenvolvedor full-stack de aplicativos para desktop e web, lidando com tudo, de
 ### Como me encontrar
 - **LinkedIn:** [Vitor Eduardo](https://www.linkedin.com/in/vitor-eduardo-dev/)
 - **Email:** vitororasio6650@hotmail.com
-
----
-
-### 👤 Sobre mim
-- 🐕‍🦺 Gosto de animais.
-- ☕ Gosto muito de café.
-- ⚙ Gosto de aprender o máximo possível sobre uma função e sua finalidade no código, seja ela um método personalizado ou um método embutido.
-- 📺 Eu assisto alguns animes, meu favorito é One Piece.
