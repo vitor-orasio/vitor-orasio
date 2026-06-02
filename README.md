@@ -1,6 +1,6 @@
 # Prazer, me chamo Orasio! 👋
 
-### Desenvolvedor Full-Stack | Java & Angular
+### Desenvolvedor Full Stack | Java & Angular
 
 Desenvolvedor Full Stack de aplicativos para desktop e web, criando desde a lógica do sistema (back-end) até as interfaces de usuário (front-end). Atualmente, me dedico a estudar arquitetura de sistemas e transformar ideias em código funcional.
 
