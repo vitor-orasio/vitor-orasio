@@ -2,13 +2,9 @@
 
 ### Desenvolvedor Full-Stack | Java & Angular
 
-Sou um desenvolvedor full-stack de aplicativos para desktop e web, lidando com tudo, desde a lógica do sistema (back-end) até as interfaces de usuário (front-end). Atualmente, me dedico a estudar arquitetura de sistemas e transformar ideias em código funcional.
+Desenvolvedor full-stack de aplicativos para desktop e web, lidando com tudo, desde a lógica do sistema (back-end) até as interfaces de usuário (front-end). Atualmente, me dedico a estudar arquitetura de sistemas e transformar ideias em código funcional.
 
 ---
-
-### O que estou fazendo agora?
-- ⚒ Atualmente, estou trabalhando em projetos criativos usando Java e Angular.
-- 🌍 Nível de inglês A2; estou estudando e me aperfeiçoando para ampliar minhas habilidades de comunicação.
 
 ### Ferramentas e tecnologias
 - **Back-end applications:** ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
